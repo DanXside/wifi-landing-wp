@@ -1,0 +1,296 @@
+.con-6310-custom-fields-01,
+.con-6310-custom-fields-02,
+.con-6310-custom-fields-03,
+.con-6310-custom-fields-04,
+.con-6310-custom-fields-05,
+.con-6310-custom-fields-06,
+.con-6310-custom-fields-07,
+.con-6310-custom-fields-08,
+.con-6310-custom-fields-09,
+.con-6310-custom-fields-10,
+.con-6310-custom-fields-11,
+.con-6310-custom-fields-12,
+.con-6310-custom-fields-13,
+.con-6310-custom-fields-14,
+.con-6310-custom-fields-15,
+.con-6310-custom-fields-16,
+.con-6310-custom-fields-17,
+.con-6310-custom-fields-18,
+.con-6310-custom-fields-19,
+.con-6310-custom-fields-20,
+.con-6310-custom-fields-21,
+.con-6310-custom-fields-22,
+.con-6310-custom-fields-24,
+.con-6310-custom-fields-25,
+.con-6310-custom-fields-28,
+.con-6310-custom-fields-29,
+.con-6310-custom-fields-30,
+.con-6310-custom-fields-31-preview {
+  float: left;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.con-6310-custom-fields-list-01,
+.con-6310-custom-fields-list-02,
+.con-6310-custom-fields-list-03,
+.con-6310-custom-fields-list-04,
+.con-6310-custom-fields-list-05,
+.con-6310-custom-fields-list-06,
+.con-6310-custom-fields-list-07,
+.con-6310-custom-fields-list-08,
+.con-6310-custom-fields-list-09,
+.con-6310-custom-fields-list-10,
+.con-6310-custom-fields-list-11,
+.con-6310-custom-fields-list-12,
+.con-6310-custom-fields-list-13,
+.con-6310-custom-fields-list-14,
+.con-6310-custom-fields-list-15,
+.con-6310-custom-fields-list-16,
+.con-6310-custom-fields-list-17,
+.con-6310-custom-fields-list-18,
+.con-6310-custom-fields-list-19,
+.con-6310-custom-fields-list-20,
+.con-6310-custom-fields-list-21,
+.con-6310-custom-fields-list-22,
+.con-6310-custom-fields-list-24,
+.con-6310-custom-fields-list-25,
+.con-6310-custom-fields-list-28,
+.con-6310-custom-fields-list-29,
+.con-6310-custom-fields-list-30,
+.con-6310-custom-fields-list-31-preview {
+  font-size: 14px;
+  text-align: center;
+  font-family: 'Amaranth';
+  line-height: 20px;
+  min-height: 20px;
+  float: left;
+  width: 100%;
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  text-transform: none;
+}
+.con-6310-custom-fields-list-17 {
+  transition-duration: 0s;
+}
+.con-6310-custom-fields-list-12,
+.con-6310-custom-fields-list-15,
+.con-6310-custom-fields-list-16,
+.con-6310-custom-fields-list-24,
+.con-6310-custom-fields-list-25 {
+  text-align: left;
+}
+.con-6310-custom-fields-list-label-01,
+.con-6310-custom-fields-list-label-03,
+.con-6310-custom-fields-list-label-30,
+.con-6310-custom-fields-list-label-31-preview {
+  color: rgb(0, 148, 79);
+  display: inline-block;
+}
+.con-6310-custom-fields-list-content-01,
+.con-6310-custom-fields-list-content-03,
+.con-6310-custom-fields-list-content-30,
+.con-6310-custom-fields-list-content-31-preview {
+  color: rgb(0, 0, 0);
+  font-weight: 100;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.con_6310_team_style_01:hover .con-6310-custom-fields-list-label-01,
+.con_6310_team_style_03:hover .con-6310-custom-fields-list-label-03,
+.con_6310_team_style_08:hover .con-6310-custom-fields-list-label-08,
+.con_6310_team_style_10:hover .con-6310-custom-fields-list-label-10,
+.con_6310_team_style_13:hover .con-6310-custom-fields-list-label-13,
+.con_6310_team_style_14:hover .con-6310-custom-fields-list-label-14,
+.con_6310_team_style_16:hover .con-6310-custom-fields-list-label-16,
+.con_6310_team_style_19:hover .con-6310-custom-fields-list-label-19,
+.con_6310_team_style_20:hover .con-6310-custom-fields-list-content-20,
+.con_6310_team_style_22:hover .con-6310-custom-fields-list-label-22,
+.con_6310_team_style_31_preview:hover .con-6310-custom-fields-list-label-31-preview {
+  color: rgb(0, 0, 0);
+}
+.con_6310_team_style_01:hover .con-6310-custom-fields-list-content-01,
+.con_6310_team_style_03:hover .con-6310-custom-fields-list-content-03,
+.con_6310_team_style_10:hover .con-6310-custom-fields-list-content-10,
+.con_6310_team_style_13:hover .con-6310-custom-fields-list-content-13,
+.con_6310_team_style_14:hover .con-6310-custom-fields-list-content-14,
+.con_6310_team_style_16:hover .con-6310-custom-fields-list-content-16,
+.con_6310_team_style_19:hover .con-6310-custom-fields-list-content-19,
+.con_6310_team_style_31_preview:hover .con-6310-custom-fields-list-content-31-preview {
+  color: rgb(0, 148, 79);
+}
+.con-6310-custom-fields-02,
+.con-6310-custom-fields-05,
+.con-6310-custom-fields-06,
+.con-6310-custom-fields-08,
+.con-6310-custom-fields-11,
+.con-6310-custom-fields-12,
+.con-6310-custom-fields-15,
+.con-6310-custom-fields-28,
+.con-6310-custom-fields-29 {
+  color: rgb(255, 255, 255);
+}
+.con-6310-custom-fields-list-label-02,
+.con-6310-custom-fields-list-content-02,
+.con-6310-custom-fields-list-label-05,
+.con-6310-custom-fields-list-content-05,
+.con-6310-custom-fields-list-label-06,
+.con-6310-custom-fields-list-content-06,
+.con-6310-custom-fields-list-label-08,
+.con-6310-custom-fields-list-content-08,
+.con-6310-custom-fields-list-label-09,
+.con-6310-custom-fields-list-content-09,
+.con-6310-custom-fields-list-label-10,
+.con-6310-custom-fields-list-content-10,
+.con-6310-custom-fields-list-label-11,
+.con-6310-custom-fields-list-content-11,
+.con-6310-custom-fields-list-label-12,
+.con-6310-custom-fields-list-content-12,
+.con-6310-custom-fields-list-label-13,
+.con-6310-custom-fields-list-content-13,
+.con-6310-custom-fields-list-label-14,
+.con-6310-custom-fields-list-content-14,
+.con-6310-custom-fields-list-label-15,
+.con-6310-custom-fields-list-content-15,
+.con-6310-custom-fields-list-label-16,
+.con-6310-custom-fields-list-content-16,
+.con-6310-custom-fields-list-label-17,
+.con-6310-custom-fields-list-content-17,
+.con-6310-custom-fields-list-label-18,
+.con-6310-custom-fields-list-content-18,
+.con-6310-custom-fields-list-label-19,
+.con-6310-custom-fields-list-content-19,
+.con-6310-custom-fields-list-label-20,
+.con-6310-custom-fields-list-content-20,
+.con-6310-custom-fields-list-label-21,
+.con-6310-custom-fields-list-content-21,
+.con-6310-custom-fields-list-label-22,
+.con-6310-custom-fields-list-content-22,
+.con-6310-custom-fields-list-label-24,
+.con-6310-custom-fields-list-content-24,
+.con-6310-custom-fields-list-label-25,
+.con-6310-custom-fields-list-content-25,
+.con-6310-custom-fields-list-label-28,
+.con-6310-custom-fields-list-content-28,
+.con-6310-custom-fields-list-label-29,
+.con-6310-custom-fields-list-content-29,
+.con-6310-custom-fields-list-label-30,
+.con-6310-custom-fields-list-content-30,
+.con-6310-custom-fields-list-label-31-preview,
+.con-6310-custom-fields-list-content-31-preview {
+  display: inline-block;
+}
+.con-6310-custom-fields-list-content-08{
+   color: #000;
+}
+.con-6310-custom-fields-list-label-08,
+.con_6310_team_style_08:hover .con-6310-custom-fields-list-content-08,
+.con_6310_team_style_20:hover .con-6310-custom-fields-list-label-20,
+.con_6310_team_style_30:hover .con-6310-custom-fields-list-label-30 {
+  color: rgba(244, 54, 98, 1);
+}
+.con_6310_team_style_09:hover .con-6310-custom-fields-list-label-09,
+.con_6310_team_style_18:hover .con-6310-custom-fields-list-label-18,
+.con_6310_team_style_21:hover .con-6310-custom-fields-list-label-21,
+.con_6310_team_style_29:hover .con-6310-custom-fields-list-label-29 {
+  color: rgb(236, 230, 149);
+}
+.con-6310-custom-fields-list-label-09,
+.con_6310_team_style_09:hover .con-6310-custom-fields-list-content-09 {
+  color: rgb(200, 200, 200);
+}
+.con_6310_team_style_18:hover .con-6310-custom-fields-list-content-18,
+.con_6310_team_style_29:hover .con-6310-custom-fields-list-content-29 {
+  color: whitesmoke;
+}
+
+/* Description field */
+.con_6310_team_style_01_description,
+.con_6310_team_style_02_description,
+.con_6310_team_style_05_description,
+.con_6310_team_style_06_description,
+.con_6310_team_style_11_description,
+.con_6310_team_style_12_description,
+.con_6310_team_style_13_description,
+.con_6310_team_style_14_description,
+.con_6310_team_style_17_description,
+.con_6310_team_style_18_description,
+.con_6310_team_style_19_description,
+.con_6310_team_style_20_description,
+.con_6310_team_style_21_description,
+.con_6310_team_style_22_description,
+.con_6310_team_style_25_description,
+.con_6310_team_style_28_description,
+.con_6310_team_style_29_description,
+.con_6310_team_style_30_description,
+.con_6310_team_style_31_description_preview {
+  float: left;
+  width: 100%;
+  display: block;
+  font-size: 14px !important;
+  line-height: 18px;
+  color: rgb(0, 0, 0);
+  font-family: 'Amaranth';
+  font-weight: 100;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.con_6310_team_style_13_description,
+.con_6310_team_style_18_description,
+.con_6310_team_style_19_description,
+.con_6310_team_style_21_description,
+.con_6310_team_style_28_description,
+.con_6310_team_style_29_description,
+.con_6310_team_style_30_description {
+   padding: 0 10px !important;
+   width: calc(100% - 20px)
+}
+.con_6310_team_style_12_description,
+.con_6310_team_style_25_description {
+  margin-bottom: 10px;
+  text-align: left;
+}
+.con_6310_team_style_25_description {
+  margin-bottom: 0;
+}
+.con_6310_team_style_02_description,
+.con_6310_team_style_05_description,
+.con_6310_team_style_06_description,
+.con_6310_team_style_11_description,
+.con_6310_team_style_12_description,
+.con_6310_team_style_21_description,
+.con_6310_team_style_28_description {
+  color: rgb(216, 216, 216);
+}
+.con_6310_team_style_01:hover .con_6310_team_style_01_description,
+.con_6310_team_style_03:hover .con_6310_team_style_03_description,
+.con_6310_team_style_10:hover .con_6310_team_style_10_description,
+.con_6310_team_style_13:hover .con_6310_team_style_13_description,
+.con_6310_team_style_14:hover .con_6310_team_style_14_description,
+.con_6310_team_style_16:hover .con_6310_team_style_16_description,
+.con_6310_team_style_19:hover .con_6310_team_style_19_description,
+.con_6310_team_style_22:hover .con_6310_team_style_22_description,
+.con_6310_team_style_31_preview:hover .con_6310_team_style_31_description_preview {
+  color: indianred;
+}
+.con_6310_team_style_08:hover .con_6310_team_style_08_description {
+  color: rgb(0, 0, 0);
+}
+.con_6310_team_style_09:hover .con_6310_team_style_09_description {
+  color: rgb(236, 230, 149);
+}
+.con_6310_team_style_18:hover .con_6310_team_style_18_description,
+.con_6310_team_style_21:hover .con_6310_team_style_21_description,
+.con_6310_team_style_28:hover .con_6310_team_style_28_description,
+.con_6310_team_style_29:hover .con_6310_team_style_29_description {
+  color: white;
+  transition-duration: 0.3s !important;
+}
+.con_6310_team_style_20:hover .con_6310_team_style_20_description,
+.con_6310_team_style_30:hover .con_6310_team_style_30_description {
+  color: #8b1d8d;
+}

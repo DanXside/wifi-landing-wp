@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    html {
+        font-family: 'Montserrat, sans-serif';
+        font-size: 10px;
+    }
+    .container-adv {
+        @apply bg-gradient-to-r from-zinc-400 to-stone-600;
+    }    
+}
+
+.header-button {
+    @apply w-[6rem] h-[6rem] flex gap-[1rem] justify-center items-center font-main font-bold text-4xl text-left text-[#225378] transition-all duration-300 hover:text-white hover:bg-[#225378] hover:rounded-2xl;
+}
+
+.how-to_item {
+    @apply flex flex-row w-[28rem] sm:w-[50rem] md:w-[22rem] lg:w-[28rem] xl:w-[35rem] h-[12rem] md:h-[18rem] lg:h-[22rem] md:flex-col items-center border-2 border-gray-800 p-8 md:p-4 shadow-lg bg-white;
+}
+
+.how-to_item-title {
+    @apply font-main font-bold text-left md:text-center text-gray-800 text-[1.8rem] sm:text-[2.2rem] mt-4;
+}
+
+.how-to_item-descr {
+    @apply font-main font-medium text-left md:text-center text-gray-800 text-[1.2rem] lg:text-[1.4rem] xl:text-[1.6rem] mt-2 md:mt-4;
+}
+
+.dark-title {
+    @apply font-main font-bold text-center text-gray-800 text-[2rem] sm:text-[2.4rem] lg:text-[2.8rem];
+}
+
+
+
+.adv__item_left {
+    @apply h-[42rem] sm:h-[46rem] lg:h-[22rem] xl:h-[30rem] w-[28rem] sm:w-[50rem] lg:w-[80rem] xl:w-[120rem] mb-8 lg:mb-0 flex flex-col-reverse lg:flex-row justify-between items-center;
+}
+
+.adv__item_right {
+    @apply h-[42rem] sm:h-[46rem] lg:h-[22rem] xl:h-[30rem] w-[28rem] sm:w-[50rem] lg:w-[80rem] xl:w-[120rem] mb-8 lg:mb-0 flex flex-col-reverse lg:flex-row-reverse justify-between items-center; 
+}
+
+.adv__item_title {
+    @apply font-main font-semibold text-white text-[1.6rem] xl:text-[2rem];
+}
+
+.adv__item_descr {
+    @apply font-main font-light text-white text-[1.2rem] xl:text-[1.4rem] mt-[1rem];
+}
+
+.adv__item_wrap-left {
+    @apply w-[28rem] sm:w-[50rem] xl:w-[55rem] h-[20rem] sm:h-[14rem] xl:h-[16rem] flex flex-col justify-center text-center lg:text-left bg-primary-700 border-gray-800 border-[0.3rem] rounded-3xl p-8 hover:bg-gray-600 hover:border-transparent transition-all duration-500;
+}
+
+.adv__item_wrap-right {
+    @apply w-[28rem] sm:w-[50rem] xl:w-[55rem] h-[20rem] sm:h-[14rem] xl:h-[16rem] flex flex-col justify-center text-center lg:text-right bg-primary-700 border-gray-800 border-[0.3rem] rounded-3xl p-8 hover:bg-gray-600 hover:border-transparent transition-all duration-500;
+}
+
+.adv__item_divider {
+    @apply w-full h-[0.1rem] xl:h-[0.2rem] bg-primary/60 group-hover:bg-transparent duration-500;
+}
+.adv-pic {
+    @apply w-full lg:w-[24rem] xl:w-[40rem] h-[20rem] sm:h-[30rem] lg:h-[16rem] xl:h-[25rem] rounded-2xl;
+}
+
+
+.counter-wrap {
+    @apply w-full flex flex-col sm:flex-row justify-center items-center gap-[4rem] sm:gap-[10rem] lg:gap-[20rem];
+}
+.counter-item {
+    @apply w-[30rem] lg:w-[40rem] h-[20rem] lg:h-[30rem] bg-gray-300 p-12 flex flex-col items-center justify-center;
+}
+
+
+.price-wrap {
+    @apply w-full flex flex-wrap md:flex-nowrap justify-center gap-[4rem] md:gap-0 md:justify-around items-start mt-12 xl:mt-16;
+}
+
+.price-item {
+    @apply w-[22rem] lg:w-[30rem] xl:w-[40rem] h-[42rem] lg:h-[50rem] xl:h-[60rem] border-white border-2 p-3 lg:p-8 flex flex-col justify-between items-center ;
+}
+
+.price-title {
+    @apply font-main font-bold text-white text-center text-[1.6rem] lg:text-[2rem] xl:text-[2.4rem] mt-4;
+}
+
+.price-descr {
+    @apply font-main font-semibold text-white text-center text-[1.4rem] lg:text-[1.6rem] xl:text-[1.8rem] mt-4;
+}
+
+.price-btn {
+    @apply w-[16rem] lg:w-[20rem] xl:w-[30rem] h-[4rem] xl:h-[6rem] font-main font-bold text-gray-900 text-[1rem] lg:text-[1.2rem] xl:text-[1.6rem] bg-white rounded-[4rem] transition-all duration-200  hover:bg-cyan-400 hover:shadow-lg hover:shadow-gray-400/50 ;
+}
